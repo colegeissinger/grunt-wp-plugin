@@ -26,7 +26,7 @@ git clone git@github.com:10up/grunt-wp-plugin.git %USERPROFILE%/.grunt-init/wp-p
 At the command-line, cd into an empty directory, run this command and follow the prompts.
 
 ```
-grunt-init wp-plugin
+grunt-init wp-plugins
 ```
 
 _Note that this template will generate files in the current directory, so be sure to change to a new directory first if you don't want to overwrite existing files._
